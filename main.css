@@ -1,0 +1,15 @@
+p {
+    font-size: 16px;
+}
+p.classchange {
+    font-size: 20px;
+    color: darkred;
+}
+.newclass {
+    padding: 50px;
+    font-size: 20px;
+    color: black;
+    border: 2px solid yellow;
+    border-radius: 30px;
+    box-shadow: rgb(0, 0, 0 / 1.0);
+}
